@@ -1,2 +1,4 @@
 rootProject.name = 'hajiboot-gradle'
 
+include 'hajiboot'
+
